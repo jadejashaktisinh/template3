@@ -1,0 +1,1031 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
+
+.hreader{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: 100% ;
+    padding: 0px !important;
+    margin: 0px 0px !important;
+}
+.head{
+    background-color: rgba(0,170,181,0.2);
+    height: fit-content;
+}
+.header-u{
+    top: 9.6rem;
+    position: relative;
+    left: 10%;
+}
+.line{
+    width: 5.5rem;
+    height: 0.7rem;
+    background-color: yellow;
+    margin-bottom: -20px;
+}
+.u{
+    position: relative;
+    font-size:7rem ;
+    font-weight: 900;
+    color: white;
+}
+.crop-con{
+    height: 28rem;
+    background-color: yellow;
+    text-align: end;
+    height: 170%;
+}
+.crop-con p{
+        font-size: 5rem;
+        color: white;
+        width: 150%;
+        right: 42%;
+        font-weight: 700;
+        top: 35%;
+        margin-bottom: -2rem;
+        letter-spacing: 7px;
+        position: relative;
+}
+.header-con2{
+    position: relative;
+    margin-top: 30%;
+}
+.header-con2  img{
+    width: 15%;
+    height: 10%; 
+}
+.header-text {
+    margin-top: 1%;
+    color: white ;
+    text-align: center;
+}
+.header-text .inovation{
+    font-size: 7rem;
+    letter-spacing: 2.5rem;
+    font-weight: 700;
+    margin-left: 2.4rem;
+}
+
+.header-text span{
+    font-size: 2.7rem;
+    word-spacing: 13px;
+    letter-spacing: 9px;
+    
+}
+.none{
+    position: relative;
+    height: 4rem;
+}
+.main{
+    margin-top: 2rem;
+}
+.main-head p{
+    font-size: 8rem;
+    
+    letter-spacing: 0.5rem;
+    color: yellow;
+    font-weight: 900;
+    margin-left: 2.4rem;
+    text-align: center;
+}
+.row{
+    margin: 0px;
+    padding: 0px;
+}
+.hr{
+    width: 75%;
+    height: 4px;
+    margin-left: 2.3rem;
+    opacity: 0.6;
+    background-color: rgb(34,38,46);
+}
+.main-con{
+    margin-top: 1.1rem;
+    position: relative;
+    left: 2rem;
+    margin-left: auto !important;
+    width: 93%;
+    margin-right: auto !important;
+    padding: 0px !important;
+}
+.main-con .pk{
+    font-size:2.5rem;
+    font-weight: 300;
+}
+.main-con span{
+    color: lightblue;
+    
+    font-weight: 600;
+}
+.para{
+    font-size: 20px !important;
+    margin-top: 15px;
+    width: 30rem;
+    font-weight: 600 !important;
+}
+.footer{
+    margin-top: 6rem;
+    width: 100%;
+}
+.footer-con{
+    position: relative;
+    top: -1rem;
+    left: 3rem;
+}
+.footer-con p{
+    font-size: 1.4rem;
+    margin-left: 2.5rem;
+}
+.address-1{
+    margin: 0px;
+    padding: 0px;
+}
+.box-1{
+    margin: 0px;
+    padding: 0px;
+} 
+.address-2{
+    margin-top: 20px;
+}
+.log{
+    font-size: 3rem !important;
+    font-weight: 800;
+    text-decoration: line-through white 0.5rem;
+
+} 
+.contact{
+    position: relative;
+    right: 10px;
+}
+.log-con{
+    position: relative;
+    top: -1.5rem;
+}
+.dot{
+    background-color: black;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    margin-right: 3px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.y-logo img{
+    width: 4rem;
+    height: 4rem;
+    
+    position: relative;
+    top: -1.3rem;
+}
+.leftbox{
+    background-color: yellow;
+    height: 12rem;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.rightbox {
+    
+    background-color: yellow;
+    height: 12rem;
+    width: 8rem !important;
+    margin-left:6rem ;
+
+}
+@media only screen and (max-width:1300px) {
+        
+.header-u{
+         top: 9rem;
+         position: relative;
+         left: 10%;
+}
+
+.crop-con p{
+    font-size: 4.7rem;
+}
+
+
+
+.header-con2  img{
+    width: 150px;
+    height: 130px; 
+}
+.header-text {
+    margin-top: 2.5rem;
+}
+.header-text .inovation{
+    font-size: 6.9rem;
+    letter-spacing: 2.2rem;
+}
+
+.header-text span{
+    font-size: 2.5rem;
+    
+}
+
+.main-head p{
+    font-size: 7.6rem;
+    
+}
+
+.rightbox {
+    
+    width: 7.6rem !important;
+
+}
+}
+
+
+@media only screen and (max-width:1255px) {
+        
+    
+    .header-con2{
+        position: relative;
+        margin-top: 10.5rem;
+    }
+    
+    .header-con2  img{
+        width: 150px;
+        height: 130px; 
+    }
+    
+    .main-head p{
+        font-size: 7.5rem;
+        
+    }
+    
+    .rightbox {
+        
+        width: 6.4rem !important;
+    
+    }
+    
+.para{
+    font-size: 18px !important;
+    margin-top: 15px;
+    width: 27rem;
+    font-weight: 600 !important;
+}
+    }
+    
+@media only screen and (max-width:1155px) {
+        
+           
+.header-u{
+    top: 7rem;
+    position: relative;
+    left: 9%;
+}
+
+.crop-con p{
+    top: 7.5rem;
+font-size: 4.1rem;
+}
+
+.header-text .inovation{
+    font-size: 5.5rem;
+}
+
+.header-text span{
+    font-size: 2rem;
+    
+    
+}
+    .header-con2{
+        position: relative;
+        margin-top: 6.7rem;
+    }
+    
+    .header-con2  img{
+        width: 150px;
+        height: 130px; 
+    }
+    
+    .main-head p{
+        font-size: 6.7rem;
+        
+    }
+    
+    .rightbox {
+        
+        width: 5.9rem !important;
+    
+    }
+    
+.para{
+    font-size: 14px !important;
+    margin-top: 15px;
+    width: 25rem;
+    font-weight: 600 !important;
+}
+.header-con2{
+    margin-top: 32%;
+}
+
+
+    }
+    
+@media only screen and (max-width:1025px) {
+        
+           
+    .header-u{
+        top: 7rem;
+        position: relative;
+        left: 9%;
+    }
+    .u{
+        font-size: 7rem;
+    }
+    .crop-con{
+        height: 200%;
+    }
+    .crop-con p{
+        top: 7.3rem;
+    font-size: 3.5rem;
+    }
+    
+    .header-text .inovation{
+        font-size: 5.2rem;
+    }
+    
+    .header-text span{
+        font-size: 1.9rem;
+        
+        
+    }
+        .header-con2{
+            position: relative;
+            margin-top: 6.7rem;
+        }
+        
+        .header-con2  img{
+            width: 150px;
+            height: 130px; 
+        }
+        
+        .main-head p{
+            font-size: 6rem;
+            
+        }
+        
+.main-con .pk{
+    font-size:2rem;
+    font-weight: 300;
+}
+        .rightbox {
+            
+            width: 5rem !important;
+        
+        }
+        
+    .para{
+        font-size: 14px !important;
+        margin-top: 15px;
+        width: 25rem;
+        font-weight: 600 !important;
+    }
+    .header-con2{
+        margin-top: 32%;
+    }
+    
+.footer{
+    margin-top: 5rem;
+    width: 100%;
+}
+.footer-con{
+    top: -1.5rem;
+    left: 3rem;
+}
+.footer-con p{
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+.address-2{
+    margin-top: 15px;
+}
+.log{
+    font-size: 2.4rem !important;
+    font-weight: 800;
+    text-decoration: line-through white 0.5rem;
+
+} 
+.contact{
+    position: relative;
+    right: 10px;
+}
+.log-con{
+    position: relative;
+    top: -1.5rem;
+    left: -1rem;
+}
+.dot{
+    background-color: black;
+    width: 0.5rem;
+    height: 0.5rem;
+    margin-right: -30px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.y-logo img{
+    width: 3.5rem;
+    height: 3.5rem;
+    
+    position: relative;
+    top: -1.3rem;
+}
+
+.leftbox {
+        
+    width: 5.96rem !important;
+
+}
+}
+
+   
+@media only screen and (max-width:768px) {
+        
+           
+    .header-u{
+        top: 5rem;
+        position: relative;
+        left: 8%;
+    }
+    .u{
+        font-size: 4rem;
+    }
+    .line{
+        width: 3.3rem;
+    }
+    .crop-con{
+        height: 160%;
+    }
+    .crop-con p{
+        top: 6rem;
+    font-size: 2.7rem;
+    margin-bottom: -10px;
+    letter-spacing: 0.2rem;
+    }
+    
+    .header-text .inovation{
+        font-size: 2.8rem;
+    }
+    
+    .header-text span{
+        font-size: 1rem;
+        
+        
+    }
+    .header-con2{
+        position: relative;
+        margin-top:29% !important;
+    }
+        
+        .header-con2  img{
+            width: 120px;
+            height: 90px; 
+        }
+        
+        .main-head p{
+            font-size: 4.3rem;
+            
+        }
+        
+.main-con .pk{
+    font-size:1.5rem;
+    font-weight: 300;
+}
+        
+    .para{
+        font-size: 10px !important;
+        margin-top: 15px;
+        width: 15rem;
+        font-weight: 600 !important;
+    }
+    .header-con2{
+        margin-top: 32%;
+    }
+    
+.footer{
+    margin-top: 5rem;
+    width: 100%;
+}
+.footer-con{
+    top: -1.5rem;
+    left: 3rem;
+}
+.address-1 p{
+    font-size: 0.4rem !important;
+    margin-left: 0.1rem !important;
+}
+.address-2{
+    margin-top: 10px;
+}
+.log {
+    font-size: 0.5rem !important;
+    font-weight: 800;
+    text-decoration: line-through white 0.1rem;
+
+} 
+.contact{
+    position: relative;
+    right: 10px;
+}
+.log-con{
+    position: relative;
+    top: -1.5rem;
+    left: -1rem;
+}
+.dot{
+    background-color: black;
+    width: 0.5rem;
+    height: 0.5rem;
+    margin-right: -30px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.y-logo img{
+    width: 2.5rem;
+    height: 2.5rem;
+    
+    position: relative;
+    top: -1.3rem;
+}
+
+.leftbox {     
+    width: 3.4rem !important;
+    height: 10rem;
+}
+.rightbox {
+    position: relative;
+    left: -40px;
+    height: 10rem;
+    width: 4rem !important;
+
+}
+
+}
+  
+@media only screen and (max-width:425px) {
+        
+           
+    .header-u{
+        top: 3rem;
+        position: relative;
+        left: 3%;
+    }
+    .u{
+        font-size: 3rem;
+        margin-top: 6px;
+    }
+    .line{
+        width: 2.4rem;
+        height: 0.5rem;
+    }
+    .crop-con{
+        height: 160%;
+        width: 120%;
+    }
+    .crop-con p{
+        top: 2rem;
+        position: relative;
+        right: 115px;
+        width: 200%;
+        font-size: 1.5rem;
+        margin-bottom: -10px;
+        letter-spacing: 0.1rem;
+    }
+    
+    .header-text .inovation{
+        font-size: 1.3rem;
+        letter-spacing: 1.5rem;
+    }
+    
+    .header-text span{
+        font-size: 0.6rem;
+        word-spacing: 10px;
+        letter-spacing: 4px;
+        
+        
+    }
+    .header-con2{
+        position: relative;
+        margin-top:33% !important;
+    }
+        
+        .header-con2  img{
+            width: 60px;
+            height: 50px; 
+        }
+        
+        .main-head p{
+            font-size: 2rem;
+            
+        }
+        
+.main-con .pk{
+    font-size:0.4rem;
+   
+    font-weight: 300;
+    
+}
+.main-content{
+    
+    position: relative;
+    left: -70px;
+}
+
+        
+    .para{
+        font-size: 5px !important;
+        margin-top: 15px;
+    
+        width: 8rem;
+        font-weight: 600 !important;
+    }
+    .header-con2{
+        margin-top: 32%;
+    }
+    
+.footer{
+    margin-top: 3rem;
+    width: 100%;
+}
+.footer-con{
+    top: -1rem;
+    left: 0rem;
+}
+
+.footer-con p{
+    font-size: 0.4rem;
+    margin-left: 0.5rem;
+}
+.address-2{
+    margin-top: 10px;
+}
+.log{
+    font-size: 1rem !important;
+    font-weight: 800;
+    text-decoration: line-through white 0.2rem;
+
+} 
+.contact{
+    position: relative;
+    right: 10px;
+}
+.log-con{
+    position: relative;
+    top: -1rem;
+    left: 0rem;
+}
+.dot1{
+    background-color: black;
+    width: 0.3rem;
+    position: relative;
+    height: 0.3rem;
+    right: 32px;
+    margin-left: 22px;
+    margin-top: 3px;
+}
+.dot2{
+    width: 0.3rem !important;
+    height: 0.3rem;
+}
+.y-logo img{
+    width:1rem;
+    height: 1rem;
+    left: 18rem;
+    top: -2.5rem;
+    position: relative;
+
+}
+
+.leftbox {     
+    width: 2rem !important;
+    height: 6rem;
+}
+.rightbox {
+    position: relative;
+    height: 6rem;
+    left: -75px;
+    width: 3rem !important;
+
+}
+.main-con{
+    width: 68%;
+}
+}
+  
+@media only screen and (max-width:375px) {
+        
+           
+    .header-u{
+        top: 3rem;
+        position: relative;
+        left: 2%;
+    }
+    .u{
+        font-size: 2.5rem;
+    }
+    .line{
+        width: 2rem;
+        height: 0.4rem;
+    }
+    .crop-con{
+        height: 190%;
+        width: 130%;
+    }
+    .crop-con p{
+        top: 3rem;
+        position: relative;
+        right: 155px;
+    font-size: 1.3rem;
+    margin-bottom: -10px;
+    width: 250%;
+    letter-spacing: 0.2rem;
+    }
+    
+    .header-text{
+        margin-top: 0px;
+    }
+    .header-text .inovation{
+        font-size: 1.5rem;
+        letter-spacing: 1rem;
+    }
+    
+    .header-text span{
+        font-size: 0.6rem;
+        word-spacing: 10px;
+        letter-spacing: 3px;
+        margin-left: 27px;
+        
+    }
+    .header-con2{
+        position: relative;
+        margin-top:35% !important;
+    }
+        
+        .header-con2  img{
+            width: 60px;
+            height: 60px; 
+        }
+        
+        .main-head p{
+            font-size: 1.7rem;
+            
+        }
+        
+.main-con .pk{
+    font-size:0.4rem;
+   
+    font-weight: 300;
+    
+}
+.main-content{
+    
+    position: relative;
+    left: -70px;
+}
+
+
+    .para{
+        font-size: 5px !important;
+        margin-top: 15px;
+    
+        width: 8rem;
+        font-weight: 600 !important;
+    }
+    .header-con2{
+        margin-top: 32%;
+    }
+    
+.footer{
+    margin-top: 3rem;
+    width: 100%;
+}
+.footer-con{
+    top: -1rem;
+    left: 0rem;
+}
+
+.footer-con p{
+    font-size: 0.4rem;
+    margin-left: 0.5rem;
+}
+.address-2{
+    margin-top: 10px;
+}
+.log{
+    font-size: 1rem !important;
+    font-weight: 800;
+    text-decoration: line-through white 0.2rem;
+
+} 
+.contact{
+    position: relative;
+    right: 10px;
+}
+.log-con{
+    position: relative;
+    top: -1rem;
+    left: 0rem;
+}
+.dot1{
+    background-color: black;
+    width: 0.3rem;
+    position: relative;
+    height: 0.3rem;
+    right: 32px;
+    margin-left: 22px;
+    margin-top: 3px;
+}
+.dot2{
+    width: 0.3rem !important;
+    height: 0.3rem;
+}
+.y-logo img{
+    width:1rem;
+    height: 1rem;
+    left: 15rem;
+    position: relative;
+
+}
+
+.leftbox {     
+    width: 2rem !important;
+    height: 6rem;
+}
+.rightbox {
+    position: relative;
+    height: 6rem;
+    left: -85px;
+    width: 3rem !important;
+
+}
+.main-con{
+    width: 68%;
+}
+}
+ 
+@media only screen and (max-width:320px) {
+        
+           
+    .header-u{
+        top: 2.5rem;
+        position: relative;
+        left: 2%;
+    }
+    .u{
+        margin-top: 10px;
+        font-size: 2rem;
+    }
+    .line{
+        width: 1.6rem;
+        height: 0.4rem;
+    }
+    .crop-con{
+        height: 230%;
+        width: 130%;
+    }
+    .crop-con p{
+        top: 2.5rem;
+        position: relative;
+        right: 130px;
+    font-size: 1rem;
+    margin-bottom: -10px;
+    width: 250%;
+    letter-spacing: 0.1rem;
+    }
+    
+    .header-text{
+        margin-top: 15px;
+    }
+    .header-text .inovation{
+        font-size: 1rem;
+        letter-spacing: 1rem;
+    }
+    
+    .header-text span{
+        font-size: 0.4rem;
+        word-spacing: 10px;
+        letter-spacing: 3px;
+        margin-left: 30px;
+        
+    }
+    .header-con2{
+        position: relative;
+        margin-top:39% !important;
+    }
+        
+        .header-con2  img{
+            width: 40px;
+            height: 40px; 
+        }
+        
+        .main-head p{
+            font-size: 1.5rem;
+            
+        }
+        .hr{
+            width: 80% !important;
+        }
+        
+.main-con .pk{
+    font-size:0.3rem;
+   
+    font-weight: 300;
+    
+}
+.main-content{
+    
+    position: relative;
+    left: -70px;
+}
+
+
+    .para{
+        font-size: 3px !important;
+        margin-top: 15px;
+    
+        width: 7rem;
+        font-weight: 600 !important;
+    }
+    .header-con2{
+        margin-top: 32%;
+    }
+    
+.footer{
+    margin-top: 3rem;
+    width: 100%;
+}
+.footer-con{
+    top: -1rem;
+    left: 0rem;
+}
+
+.footer-con p{
+    font-size: 0.4rem;
+    margin-left: 0.5rem;
+}
+.address-2{
+    margin-top: 10px;
+}
+.log{
+    font-size: 1rem !important;
+    font-weight: 800;
+    text-decoration: line-through white 0.2rem;
+
+} 
+.contact{
+    position: relative;
+    right: 10px;
+}
+.log-con{
+    position: relative;
+    top: -1rem;
+    left: 0rem;
+}
+.dot1{
+    background-color: black;
+    width: 0.3rem;
+    position: relative;
+    height: 0.3rem;
+    right: 32px;
+    margin-left: 22px;
+    margin-top: 3px;
+}
+.dot2{
+    width: 0.3rem !important;
+    height: 0.3rem;
+}
+.y-logo img{
+    width:1rem;
+    height: 1rem;
+    left: 15rem;
+    position: relative;
+
+}
+
+.leftbox {     
+    width: 2rem !important;
+    height: 6rem;
+}
+.rightbox {
+    position: relative;
+    height: 6rem;
+    left: -85px;
+    width: 3rem !important;
+
+}
+.main-con{
+    width: 68%;
+}
+}
